@@ -9,7 +9,7 @@
 > 개인이 만든 업무 보조 도구이며, 기관의 공식 프로그램이 아닙니다.
 > Windows 11 PC에서만 동작합니다.
 
-![Live Notes 화면](docs/screen-livenotes.png)
+![Live Notes 화면](docs/screen-livenotes-3.png)
 
 *받아쓰는 중인 화면 (시험용 예시 내용)*
 
